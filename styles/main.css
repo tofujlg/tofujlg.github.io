@@ -80,6 +80,11 @@ li{
     border-radius: 50%;
 }
 
+.portfolio-pic{
+    width:100%
+    ;
+}
+
 #email{
     color: var(--mainTextColor);
 }
