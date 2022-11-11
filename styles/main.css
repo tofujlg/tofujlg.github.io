@@ -94,19 +94,20 @@ li{
     justify-content: space-between;
     column-gap: 1em;
     flex-wrap: wrap;
+    padding-top:1rem;
 }
 
 #socials--list a{
     font-weight: 300;
     color: var(--secondaryTextColor);
-    font-size: 0.9em;
+    font-size: 1.15em;
     transition: 0.3s;
 }
 
 #socials--list a:hover{
     font-weight: 100;
     color: var(--mainLinkColor);
-    font-size: 0.9em;
+    font-size: 1.15em;
 }
 
 #qualifications--list{
